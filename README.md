@@ -18,7 +18,7 @@ An applied data mining project implementing **K-Means Clustering** in **R** to a
 This repository contains a complete statistical pipeline for unsupervised classification of regional socio-economic and nutritional indicators. The project bridges applied mathematics, data mining, and public policy analysis by identifying distinct vulnerability profiles to support data-driven decision-making.
 
 ### ⚙️ Methodology & Pipeline
-1. **Data Preprocessing & Validation:** Handling missing values, checking structural integrity, and variable transformation ($\log(1+x)$ for skewed variables).
+1. **Data Preprocessing & Validation:** Handling missing values, checking structural integrity.
 2. **Standardization:** $Z$-score scaling to ensure uniform weighting across multi-scale indicators.
 3. **Exploratory Data Analysis (EDA):** Statistical summary and correlation analysis (checking for multicollinearity).
 4. **Optimal $K$ Evaluation:** Evaluating cluster validity using multiple metrics:
